@@ -1,2 +1,1 @@
-#!/bin/bash
-sudo touch hello
+#!/bin/bashcho '' > hello
