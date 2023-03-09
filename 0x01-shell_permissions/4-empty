@@ -1,1 +1,2 @@
-#!/bin/bashcho '' > hello
+#!/bin/bash
+echo '' > hello
