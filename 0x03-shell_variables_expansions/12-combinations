@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z}\n | sed s:"oo\n":: | sort -u
+echo -e {{a..n},{p..z}}{a..z}"\n" o{{a..n},{p..z}}"\n"  | sort -u
