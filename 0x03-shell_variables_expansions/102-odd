@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "*odd*\n"
+paste -d, - - cut -d, -fl
